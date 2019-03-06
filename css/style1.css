@@ -475,9 +475,9 @@ footer p span{ float: right;}
         display: block;
         height: auto;
     }
-     .linkat .d1{
+    .linkat .d1{
     background-color: white;
-     width: 80%;
+     width: 90%;
      display: none;
      position: fixed;
      padding: 10px;
